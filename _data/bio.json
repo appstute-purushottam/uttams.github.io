@@ -2,11 +2,11 @@
   "basics": {
     "name": "Purushottam Sohani",
     "label": "Software Developer",
-    "picture": "https://uttams-portfolio.firebaseapp.com/images/uttams.jpg",
+    "picture": "images/molly.png",
     "email": "uttams@outlook.com",
     "phone": "9422988986",
     "website": "purushottam.live",
-    "summary": "I am software developer working on mobile application development",
+    "summary": "Software developer working on mobile applications",
     "location": {
       "address": "",
       "postalCode": "411046",
@@ -33,20 +33,28 @@
       {
         "network": "instagram",
         "username": "Uttams",
-        "url": "http://instagram.com/uttams2"
+        "url": "https://www.instagram.com/uttams2/"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Android",
+      "keywords": [
+        "Android",
+        "Kotlin"
+      ]
+    },
+      {
+      "name": "IoT",
       "keywords": [
         "Arduino",
         "BLE"
       ]
     },
+    
     {
-      "name": "mobile gaming",
+      "name": "Mobile Gaming",
       "keywords": [
       ]
     }
@@ -89,19 +97,38 @@
       "company": "Yan IT Solutions Pvt. Ltd.",
       "position": "Mobile Developer",
       "website": "",
-      "startDate": "2018-06-01",
+      "startDate": "2018-18-06",
       "endDate": "Present",
       "summary": "Senior Andorid Developer",
       "highlights": [
         "working on IOT applications"
       ]
     },
+    {
+      "company": "Acube Systems Pvt. Ltd.",
+      "position": "Mobile Developer",
+      "website": "",
+      "startDate": "2016-06-03",
+      "endDate": "2018-06-01",
+      "summary": "Andorid Developer",
+      "highlights": [
+        "Developed product applications based on location, travel"
+      ]
+    },
+{
+      "company": "Appstute Technologies",
+      "position": "Mobile Developer",
+      "website": "",
+      "startDate": "2014-06-03",
+      "endDate": "2016-06-01",
+      "summary": "Andorid Developer",
+      "highlights": [
+        "Worked on android applications for Exhibitions"
+      ]
+    },
   ],
   "volunteer": [
     
-  ],
-  "awards": [
-   
   ],
   "references": [
    
