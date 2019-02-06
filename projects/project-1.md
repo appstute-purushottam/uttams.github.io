@@ -13,10 +13,10 @@ summary: Android application developed for rail commuters. It has live train tra
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
+  <img class="ui image" src="../images/railenquiry1.png">
+  <img class="ui image" src="../images/railenquiry2.jpg">
+  <img class="ui image" src="../images/railenquiry3.jpg">
+  <img class="ui image" src="../images/railenquiry4.png">
 </div>
 
 
