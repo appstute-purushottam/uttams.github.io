@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/railenquiry.jpg
+image: images/railenquiry.png
 title: RailEnquiry
 permalink: projects/railenquiry
 # All dates must be YYYY-MM-DD format!
@@ -14,8 +14,8 @@ summary: Android application developed for rail commuters. It has live train tra
 
 <div class="ui small rounded images">
   <img class="ui image" src="../images/railenquiry1.png">
-  <img class="ui image" src="../images/railenquiry2.jpg">
-  <img class="ui image" src="../images/railenquiry3.jpg">
+  <img class="ui image" src="../images/railenquiry2.png">
+  <img class="ui image" src="../images/railenquiry3.png">
   <img class="ui image" src="../images/railenquiry4.png">
 </div>
 
