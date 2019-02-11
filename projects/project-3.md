@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
+image: images/infax_icon.png
 title: Infax Smart Restrooms
 permalink: projects/infax
 # All dates must be YYYY-MM-DD format!
