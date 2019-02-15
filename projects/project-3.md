@@ -17,10 +17,10 @@ Android application developed for airport restrooms cleaning staff. Sensors keep
 Cleaning worker accepts performs the task assigned. Application keeps track of bluetooth beacon regions and sends log back to API server.
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/infax (1).png">
   <img class="ui image" src="../images/infax (2).png">
   <img class="ui image" src="../images/infax (3).png">
   <img class="ui image" src="../images/infax (4).png">
+  <img class="ui image" src="../images/infax (1).png">
 </div>
 
 <hr>
