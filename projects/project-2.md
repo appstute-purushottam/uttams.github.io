@@ -26,4 +26,4 @@ Android application for live train tracking based on start date of that train. B
 </div>
 
 
-Source: <a href="https://play.google.com/store/apps/details?id=in.railenquiry">railenquiry</a>
+Source: <a href="https://play.google.com/store/apps/details?id=in.runningstatus">Running train status</a>
