@@ -23,6 +23,6 @@ Cleaning worker accepts performs the task assigned. Application keeps track of b
   <img class="ui image" src="../images/infax (1).png">
 </div>
 
-<ahref src = "https://play.google.com/store/apps/details?id=com.trax.analytics">Play Store</a>
+Source: <a href="https://play.google.com/store/apps/details?id=com.trax.analytics">Play Store</a>
 <hr>
 
