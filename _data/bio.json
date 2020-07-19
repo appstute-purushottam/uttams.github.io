@@ -1,18 +1,18 @@
 {
   "basics": {
     "name": "Purushottam Soni",
-    "label": "Software Developer",
+    "label": "Mobile Developer",
     "picture": "",
     "email": "uttams@outlook.com",
     "phone": "9422988986",
-    "website": "purushottam.live",
-    "summary": "Senior mobile application developer working in Yan IT Solutions Pvt. Ltd., Pune.",
+    "website": "uttams.xyz",
+    "summary": "Mobile application developer working in Yan IT Solutions Pvt. Ltd., Pune.",
     "location": {
       "address": "",
       "postalCode": "411046",
       "city": "Pune",
       "countryCode": "India",
-      "region": "Katraj"
+      "region": "Pune"
     },
     "profiles": [
       {
@@ -24,11 +24,6 @@
         "network": "linkedin",
         "username": "Purushottam",
         "url": "https://www.linkedin.com/in/purushottam-soni"
-      },
-      {
-        "network": "facebook",
-        "username": "purusoni",
-        "url": "http://fb.me/purusoni"
       },
       {
         "network": "instagram",
