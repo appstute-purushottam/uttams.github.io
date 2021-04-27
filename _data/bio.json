@@ -9,7 +9,7 @@
     "summary": "Mobile application developer working in Yan IT Solutions Pvt. Ltd., Pune.",
     "location": {
       "address": "",
-      "postalCode": "411046",
+      "postalCode": "411041",
       "city": "Pune",
       "countryCode": "India",
       "region": "Pune"
@@ -123,9 +123,9 @@
     },
   ],
   "volunteer": [
-    freegamesonline.in,
-	  http://howtogetridof.info/,
-	  http://2048-cupcakes.com/
+   "url": "freegamesonline.in" ,
+"url": "http://howtogetridof.info/",
+	"url": "http://2048-cupcakes.com/"
   ],
   "references": [
    
