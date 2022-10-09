@@ -89,11 +89,22 @@
   ],
   "work": [
     {
+      "company": "Bajaj Finserv",
+      "position": "Senior Developer",
+      "website": "",
+      "startDate": "2022-04-04",
+      "endDate": "Present",
+      "summary": "Senior Andorid Developer",
+      "highlights": [
+        "Working on flagship Android productss"
+      ]
+    },
+    {
       "company": "Yan IT Solutions Pvt. Ltd.",
       "position": "Mobile Developer",
       "website": "",
       "startDate": "2018-18-06",
-      "endDate": "Present",
+      "endDate": "2022-30-03",
       "summary": "Senior Andorid Developer",
       "highlights": [
         "Working on Android product application"
